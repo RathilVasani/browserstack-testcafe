@@ -1,5 +1,7 @@
 #Steps for executing TestCafe tests on BrowserStack
 
+![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780) 
+
 * Install testcafe
 	- npm install -g testcafe
 
