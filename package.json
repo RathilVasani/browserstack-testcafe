@@ -10,8 +10,7 @@
     "local": "testcafe 'browserstack:chrome@75.0:Windows 8.1' 'local.js'"
   },
   "devDependencies": {
-        "testcafe": "*",
-        "testcafe-browser-provider-browserstack": "^1.11.0"
+        "testcafe": "*"
    },
   
   "author": "",
