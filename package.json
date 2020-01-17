@@ -9,7 +9,10 @@
     "parallel": "testcafe 'browserstack:firefox@58.0:OS X High Sierra,browserstack:ie@11:Windows 10,browserstack:chrome@75.0:Windows 8.1' 'single.js'",
     "local": "testcafe 'browserstack:chrome@75.0:Windows 8.1' 'local.js'"
   },
- 
+  "devDependencies": {
+    "testcafe": "*",
+    "testcafe-browser-provider-browserstack": "^1.11.0"
+  },
   
   "author": "",
   "license": "ISC"
